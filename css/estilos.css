@@ -1,0 +1,70 @@
+*{margin: 0px;}
+.Fondo
+{
+    background-color: rgb(100, 37, 37);
+    border-radius: 70%;
+}
+.gusano1
+{
+
+    padding: 100px 20px 30px 500px;
+}
+.gusano2
+{
+  
+    padding: 30px 20px 100px 700px;
+}
+.cabeza
+{
+    background-color: red;
+    padding: 20px;
+    width: 30px;
+    border-radius: 20px;
+    
+}
+.segmento1
+{
+    background-color: yellow;
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+}
+.segmento2
+{
+
+    background-color: greenyellow;
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+}
+.segmento3
+{
+    background-color: rgb(127, 240, 255);
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+}
+
+.segmento4
+{
+    background-color: rgb(86, 59, 238);
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+}
+
+.segmento5
+{
+    background-color: rgb(251, 127, 255);
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+}
+
+.segmento6
+{
+    background-color: rgb(185, 118, 118);
+    padding: 20px;
+    width: 30px;
+    border-radius: 70px;
+}
